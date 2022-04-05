@@ -1,0 +1,9 @@
+- Giovani Pereira (@GibasP)
+- 
+- Atualmente cursando Análise e Desenvolvimento de Sistemas na FAM.
+- Meu objetivo é me especializar em Segurança da Informação após concluir a graduação.
+- Estou empregado mas atualmente não trabalho na área e estou à procura de estágio para iniciar minha carreira.
+- 
+- 
+- 
+- [CV - Giovani Pereira.pdf](https://github.com/GibasP/GibasP/files/8421266/CV.-.Giovani.Pereira.pdf)
