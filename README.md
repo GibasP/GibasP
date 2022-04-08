@@ -1,8 +1,11 @@
 - Giovani Pereira (@GibasP)
+
+- Aqui você irá encontrar alguns dos meus projetos desenvolvidos em cursos e em classe.
 - 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas na FAM.
+- Cursando Análise e Desenvolvimento de Sistemas na FAM desde Janeiro/2021.
 - Meu objetivo é me especializar em Segurança da Informação após concluir a graduação.
-- Estou empregado mas atualmente não trabalho na área e estou à procura de estágio para iniciar minha carreira.
+- 
+- Estou empregado mas atualmente não trabalho na área e estou à procura de um estágio para iniciar minha carreira. Se tiver alguma oportunidade para me indicar me ajudaria muito!
 - 
 - 
 - 
