@@ -4,9 +4,3 @@
 - 
 - Cursando Análise e Desenvolvimento de Sistemas na FAM desde Janeiro/2021.
 - Meu objetivo é me especializar em Segurança da Informação após concluir a graduação.
-- 
-- Estou empregado mas atualmente não trabalho na área e estou à procura de um estágio para iniciar minha carreira. Se tiver alguma oportunidade para me indicar me ajudaria muito!
-- 
-- 
-- 
-- [CV - Giovani Pereira.pdf](https://github.com/GibasP/GibasP/files/8421266/CV.-.Giovani.Pereira.pdf)
